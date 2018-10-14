@@ -1,0 +1,12 @@
+{
+	"flow.enabled": false,
+	"prettier.arrowParens": "avoid",
+	"prettier.bracketSpacing": true,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.printWidth": 120,
+	"prettier.semi": false,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 2,
+	"prettier.trailingComma": "none"
+}
